@@ -1,0 +1,16 @@
+url: GET http://127.0.0.1:5501/index.html
+protocolo: http
+host: 127.0.0.1
+puerto: 5501
+ruta: /index.html
+método: GET
+status: 200
+
+url: GET http://127.0.0.1:5501/peticiones.html
+método: GET
+status: 404 Not Found, código de error cuando no encuentra el recurso solicitado
+
+- Agrega a la bitácora qué rol cumplirán HTML, CSS y JavaScript en el sitio de Rueda Libre, con un ejemplo concreto de cada uno.
+HTML:  sirve para estructurar y maquetar  la información del sitio, como el título del negocio
+CSS: sirve para darle etilos al sitio web, como poder cambiar el color, tamaño y posición de los elementos
+JS: sirve para darle vida al sitio web, para que pase de un sitio estático a dinámico, como poder interactuar con los elementos, poder enviar información a una base de datos.
